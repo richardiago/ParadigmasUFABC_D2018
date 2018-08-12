@@ -11,3 +11,4 @@ A pasta 'Projeto' contém os seguintes arquivos:
 - 'teste'                   : arquivo usado para teste
 - 'codificado_huffman.bin'  : arquivo 'teste' compactado usando o algoritmo de Huffman
 - 'codificado_lzw.bin'      : arquivo 'teste' compactado usando o algoritmo LZW
+- 'Tutorial.pdf'            : explicação das funções implementadas
